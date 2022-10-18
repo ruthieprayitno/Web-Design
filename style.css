@@ -1,0 +1,16 @@
+#main body {
+    justify-content: center;
+}
+
+@font-face {
+    font-family: "Open-Sans";
+    src: url("css/fonts/Open-Sans.eot");
+    src:
+    url("css/fonts/Open-Sans.woff") format(woff),
+    url("css/fonts/Open-Sans.otf")format(opentype),
+    url(css/fonts/Open-Sans.svg#filename)format("svg");
+}
+
+h1{
+    font-family: 'Open-Sans';
+}
